@@ -39,6 +39,6 @@ Assumption:
 6. Optionally Rest-assuared could be added https://github.com/rest-assured/rest-assured
 
 #### Useful links:
-- [Microsoft API guidlines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#51-errors)
+- [REST API DEV tools](https://github.com/yosriady/api-development-tools)
 - [API Security](https://github.com/shieldfy/API-Security-Checklist)
 - [HTTP PATCH spec](https://tools.ietf.org/html/rfc5789)
