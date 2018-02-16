@@ -1,0 +1,54 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Eclipse artifacts, including WTP generated manifests
+
+*.classpath
+*.project
+*.settings
+
+
+#folders#
+/target
+/neoDb*
+/data
+/src/main/webapp/WEB-INF/classes
+*/META-INF/*
+
+# Logs and databases 
+######################
+
+*.sql
+*.sqlite
+reportZIPEmail/
+report/
+test-output/
+bin/
+*.classpath
+*.project
+
+# OS generated files #
+######################
+*.DS_Store
+*.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+/target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Screenshots 
+*.png
+*.jpeg
+*.jpg
